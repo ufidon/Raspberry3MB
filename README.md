@@ -47,7 +47,7 @@
 	MAC Address: B8:27:EB:A8:45:1C (Raspberry Pi Foundation)
 	3. 登录草莓派: ssh -Y pi@192.168.1.16 默认密码: raspberry
 
-# Windows 10 IoT
+# Windows 10 IoT 物联网系统
 
 参考链接:
 
