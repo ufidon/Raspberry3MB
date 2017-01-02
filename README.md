@@ -37,6 +37,11 @@
 
 * https://www.raspberrypi.org/documentation/remote-access/ssh/unix.md
 
+### 从U盘启动系统
+
+* https://github.com/raspberrypi/documentation/blob/master/hardware/raspberrypi/bootmodes/msd.md
+*　https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/msd.md
+
 操作步骤:
 
 	1. 插上USB线给草莓派供电并用网络连接路由器
