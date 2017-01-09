@@ -41,6 +41,7 @@
 
 * https://github.com/raspberrypi/documentation/blob/master/hardware/raspberrypi/bootmodes/msd.md
 *　https://www.raspberrypi.org/documentation/hardware/raspberrypi/bootmodes/msd.md
+* http://elinux.org/RPi_Resize_Flash_Partitions
 
 操作步骤:
 
